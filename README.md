@@ -11,3 +11,7 @@ A brief explanation of the application
 3. The admin initiate the voting process and set the start and end dates
 4. Users interact with either the smart contract or the identity capturing hardware to cast their vote
 5. A website provide real time vote results to anyone to track and verify the results of the voting process
+
+## Diagram
+
+![voting_workflow](./voting_workflow.png)
